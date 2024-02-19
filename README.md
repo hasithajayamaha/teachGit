@@ -1,1 +1,3 @@
 # teachGit
+
+text added
