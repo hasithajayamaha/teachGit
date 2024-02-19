@@ -2,5 +2,4 @@
 
 text added
 
-
-text for release 1.2
+text for relese1.2 main
